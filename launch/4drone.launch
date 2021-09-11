@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+	<node name ="uav1" pkg="px4package" type="uav1" output="screen"/> 
+	<node name ="uav2" pkg="px4package" type="uav2" output="screen"/> 
+	<node name ="uav3" pkg="px4package" type="uav3" output="screen"/> 
+	<node name ="uav4" pkg="px4package" type="uav4" output="screen"/> 
+
+</launch>
